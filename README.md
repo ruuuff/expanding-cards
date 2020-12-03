@@ -6,7 +6,8 @@
 - CSS
 - JavaScript
 
-## 🖥️ Frontend
+## 🖥️ Resultado
 <h1 align="center">
   <img alt="Imagem expanding cards frontend" src="https://i.imgur.com/S43XoGQ.png" width="450px"> 
 </h1>
+Confira <a href="https://expanding-cards-ruuuff.netlify.app">aqui</a> o resultado.
