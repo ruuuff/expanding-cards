@@ -1,5 +1,5 @@
 ## ⚙️ Projeto
-**Expanding cards** são paíneis com imagens que se expandem com cliques, foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
+**Expanding cards** são paíneis com imagens que se expandem com o clique, foi desenvolvido no curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>.
 
 ## ✈️ Tecnologias
 - HTML
