@@ -45,7 +45,7 @@ body {
   
   margin: 0;
   
-  white-space: nowrap;
+  white-space: nowrap; /* faz as linhas não se quebrarem */
   font-size: 24px;
   opacity: 0;
 }
